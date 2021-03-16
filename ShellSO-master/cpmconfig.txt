@@ -1,0 +1,2 @@
+/home/ignacioperez/PRUEBAS/Shell/DA
+/home/ignacioperez/PRUEBAS/Shell/DB
